@@ -1,7 +1,7 @@
 ## Lab Report: Categorical Data Analysis
 **Student Name:** Vedant Trivedi  
 **PRN:** 25070123121  
-**Experiment No:** 11  
+**Experiment No:** 12
 
 ### 1. Aim
 To perform descriptive and comparative analysis on categorical datasets using the Python `pandas` library, focusing on frequency distributions, cross-tabulations, and data filtering.
